@@ -1,7 +1,10 @@
 # Presentations
 Slides and other material from various conference presentations. 
+- **SINCON 2021**: [Mobile App Hardening Against RE](https://www.infosec-city.com/sin21-con-schedule)
+    - [Slides](Sincon2021.MobileAppHardeningRE.pdf)
+    - Video
 
-- **BSides Singapore 2021: [Evolution of Android Keystore](BSidesSG2021_EvolutionOfAndroidKeystore.pdf)**
+- **BSides Singapore 2021: [Evolution of Android Keystore](https://bsidessg.org/schedule/the-evolution-of-android-keystore/)**
     - [Slides](BSidesSG2021_EvolutionOfAndroidKeystore.pdf)
     - [Video](https://www.youtube.com/watch?v=5D82-yRlrWk)
 
