@@ -17,5 +17,5 @@ Slides and other material from various conference presentations.
     - [Video](https://www.youtube.com/watch?v=J4qI_4pLdg4&list=PL61IkVbNYniUTmprGxMnlUFxmFj79Wmpw&index=2)
     - [Resources](https://github.com/su-vikas/conbeerlib)
 
-    
-
+- **ICDF2C 2015**: [How Cuckoo Filter Can Improve Existing Approximate Matching Techniques](http://link.springer.com/chapter/10.1007/978-3-319-25512-5_4)
+    - [Paper](ICDF2C2015.CuckooFiltersApproxMatching.pdf)
