@@ -2,6 +2,7 @@ Slides and other published material presented at various conferences.
 
 - **BlackHat ASIA 2025**: [Deobfuscating Wasm using LLVM](https://www.blackhat.com/asia-25/briefings/schedule/index.html#standing-on-the-shoulders-of-giants-de-obfuscating-webassembly-using-llvm-44025) (with [Peter Garba](https://github.com/pgarba))
     - [Slides](BHASIA2025.DeobfuscatingWebAssembly.pdf)
+    - Whitepaper - coming soon...
 
 - **Re//verse 2025**: [Deobfuscating Wasm using LLVM](https://re-verse.sessionize.com/session/763329) (with [Peter Garba](https://github.com/pgarba))
     - [Slides](Reverse2025.DeobfuscatingWebAssembly.pdf) 
