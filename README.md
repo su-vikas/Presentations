@@ -5,7 +5,8 @@ Slides and other published material presented at various conferences.
     - Whitepaper - coming soon...
 
 - **Re//verse 2025**: [Deobfuscating Wasm using LLVM](https://re-verse.sessionize.com/session/763329) (with [Peter Garba](https://github.com/pgarba))
-    - [Slides](Reverse2025.DeobfuscatingWebAssembly.pdf) 
+    - [Slides](Reverse2025.DeobfuscatingWebAssembly.pdf)
+    - [Video](https://www.youtube.com/watch?v=gKRdOcuXbYI)
 
 - **SINCON 2021**: [Mobile App Hardening Against RE](https://www.infosec-city.com/post/sin21-2-mobile-app-hardening-against-re) (with [Gautam Pandian](https://github.com/darvincisec))
     - [Slides](Sincon2021.MobileAppHardeningRE.pdf)
